@@ -41,6 +41,6 @@ This repository supports the research project focused on designing and validatin
 The water sampler, adapted from the open-source Niskin3D design, was tested for mechanical efficiency and performance in collecting biological water quality parameters.  
 Specifically, chlorophyll concentrations were used as a key indicator to assess whether the sampler produced comparable results to traditional manual methods.
 
-Results indicated that the novel sampler achieved an average sampling efficiency of 98.7% with a 10% misfire rate.  
+Results showed that the novel sampler achieved an average sampling efficiency of 98.7% with a 10% misfire rate.  
 Preliminary field testing showed that chlorophyll concentrations collected using the sampler were broadly consistent with those obtained through manual sampling, with differences between methods around 5 µg/L.  
 Although the sample size was small, these results demonstrate the potential for low-cost autonomous water samplers to enable wider environmental monitoring without significant loss of data quality.
