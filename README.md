@@ -24,6 +24,7 @@ To recreate the environment:
 ```bash
 conda env create -f environment.yml
 conda activate chlorophyll_env
+```
 
 ## Usage Instructions
 
